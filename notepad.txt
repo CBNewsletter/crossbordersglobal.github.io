@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>newsletter</h2>
+<img src="Untitled.jpg" alt="Untitled" width="500" height="333">
+
+</body>
+</html>
